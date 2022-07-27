@@ -13,9 +13,9 @@ The Exchange Rate Inquiry API must be called before converting Play Token for It
 |-----|---------|------|------------|
 |Exchange Rate API|/api/ExRate.json|POST|application/json|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/01REQ-01.Exchange_Rate.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/01RES-01.Exchange_Rate.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/01SEQ-01.Exchange_Rate.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/01REQ-01.Exchange_Rate.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/01RES-01.Exchange_Rate.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/01SEQ-01.Exchange_Rate.jpg">
 
 
 ## 2. Exchange API (Affiliates → MW30P)
@@ -28,9 +28,9 @@ After inquiring Exchange Rate, request to convert Item or Point into Play Token 
 |-----|---------|------|------------|
 |Exchange Request API|/api/ExReq.json|POST|application/json|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/02REQ-01.Exchange.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/02RES-01.Exchange.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/01SEQ-01.Exchange.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/02REQ-01.Exchange.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/02RES-01.Exchange.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/01SEQ-01.Exchange.jpg">
 
 
 ## 3. P2E Password Registration API (Affiliates → MW30P)
@@ -43,10 +43,10 @@ User password registration is required for P2E withdrawal. The affiliate receive
 |-----|---------|------|------------|
 |Password Registration API|/api/RegOutPasword.json|POST|application/json|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/03REQ-01.Password_registration.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/03RES-01.Password_registration.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/03SEQ-01.Password_registration.jpg">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/03SEQ-02.Password_change.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/03REQ-01.Password_registration.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/03RES-01.Password_registration.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/03SEQ-01.Password_registration.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/03SEQ-02.Password_change.jpg">
 
 
 ## 4. P2E Withdrawal Address Verification API (Affiliates → MW30P)
@@ -59,10 +59,10 @@ The P2E withdrawal address verification request is a function to verify the inte
 |-----|---------|------|------------|
 |Withdrawal Address Verification API|/api/OutAddrVerify.json|POST|application/json|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/04REQ-01.Withdrawal_address_verification.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/04RES-01.Withdrawal_address_verification.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/04SEQ-01.Withdrawal_address_verification.jpg">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/04SEQ-02.Withdrawal_address_change.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/04REQ-01.Withdrawal_address_verification.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/04RES-01.Withdrawal_address_verification.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/04SEQ-01.Withdrawal_address_verification.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/04SEQ-02.Withdrawal_address_change.jpg">
 
 
 ## 5. P2E Withdrawal API (Affiliates → MW30P)
@@ -75,10 +75,10 @@ P2E withdrawal is a function that sends Play Token to an external Ethereum addre
 |-----|---------|------|------------|
 |Withdrawal API|/api/ReqWithdraw.json|POST|application/json|
 
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/05REQ-01.Withdrawal.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/05RES-01.Withdrawal.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/05SEQ-01.Withdrawal.jpg">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/05SEQ-02.Withdrawal.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/05REQ-01.Withdrawal.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/05RES-01.Withdrawal.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/05SEQ-01.Withdrawal.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/05SEQ-02.Withdrawal.jpg">
 
 
 ## 6. Notification of Processing Result API (MW30P → Affiliates)
@@ -91,8 +91,8 @@ The processing result notification API provides the blockchain processing result
 |-----|---------|------|------------|
 |Notification of Processing Result API|/api/Channel Request URL.json|POST|application/json|
   
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/06REQ-01.Back-end_Notify.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/06RES-01.Back-end_Notify.jpg" width="80%">
-  <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/src/06SEQ-01.Back-end_Notify.jpg">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/06REQ-01.Back-end_Notify.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/06RES-01.Back-end_Notify.jpg" width="80%">
+  <img src="https://github.com/verseGEO/verseGEO.json.api-en/blob/main/src/06SEQ-01.Back-end_Notify.jpg">
   
   
