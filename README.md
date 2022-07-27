@@ -1,7 +1,7 @@
 # verseGEO P2E API Guide
 
-- 홈페이지 : [verseGEO.com](http://versegeo.com/).
-- 백서참조 : [verseGEO Whitepaper](http://versegeo.com/whitepaper-k.html).
+- Homepage : [verseGEO.com](http://versegeo.com/).
+- Whitepaper : [verseGEO Whitepaper](http://versegeo.com/whitepaper-k.html).
 
 ## Introduction
 verseGEO provides tokens and NFT models that can be used empirically based on verified game platforms and services. In addition, we provide a digital ecosystem that can integrate the real world and metaverse that integrates the fictional world and big data of each game that will be opened in stages.
