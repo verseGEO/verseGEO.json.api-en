@@ -24,7 +24,7 @@ The Metaverse WEB3.0 Blockchain Platform(MW30P) facilitates WEB3.0-based provisi
 A total of 6 APIs are provided. API is classified into Sync type and Async type in consideration of performance. Affiliates build functions corresponding to each API and process them.
 
 
-| API | 요청 | 처리 | 기능 | 비고 |
+| API | From | To | Function | Note |
 |-----|--------|--------|------|------|
 |Exchange Rate inquiry|Affiliates|MW30P|Exchange exchange rate inquiry to convert Game Item and Point into Play Token (internal token)||
 |Exchange|Affiliates|MW30P|Convert Game Item or Point to Play Token (internal token) according to the specified exchange rate|Async|
