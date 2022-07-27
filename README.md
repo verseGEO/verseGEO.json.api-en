@@ -9,13 +9,13 @@ verseGEO provides tokens and NFT models that can be used empirically based on ve
   -	It can be used in various channels through tokenization for points or rewards of the game or contents service
   -	It supports the internal NFT marketplace that can issue, distribute and sell NFTs and external NFT marketplace.
 
-   <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/eco.png">
+   <img src="https://github.com/verseGEO/verseGEO.json.api-kr/blob/main/eco.png">
 
 
 ## WEB 3.0 Infra
 This document solves the intrinsic issues and problems of blockchain such as slow networks and functional limitations of DAPP development, etc., and enables existing services and systems (games, shopping, SNS, etc.) It is intended to support. 
 
-   <img src="https://github.com/verseGEO/verseGEO.json.api/blob/main/web30.svg">
+   <img src="https://github.com/verseGEO/verseGEO.json.api-kr/blob/main/web30.svg">
 
 The Metaverse WEB3.0 Blockchain Platform(MW30P) facilitates WEB3.0-based provision and acceptance of various blockchain platforms through the acceptance and application of continuously developing blockchain and existing technologies and services.다.
 
