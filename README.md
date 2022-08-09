@@ -8,6 +8,7 @@
 The Exchange Rate Inquiry API provides exchange rate information(Item, Point, etc  PlayToken, PlayToken  Item, Point, etc). Exchange rate information must be applied to the Exchange API through this API.
 
 ※ The exchange rate, which is the result of the Exchange Rate Inquiry API, needs to be registered as a separate ADMIN transaction. If the exchange rate information is not registered in advance, an error is returned.
+<br>
 
 * REST API Interface Specification
 
