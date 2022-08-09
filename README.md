@@ -1,7 +1,7 @@
 # verseGEO P2E API Guide
 
-- 홈페이지 : [verseGEO.com](http://versegeo.com/).
-- 백서참조 : [verseGEO Whitepaper](http://versegeo.com/whitepaper-k.html).
+- Homepage : [verseGEO.com](http://versegeo.com/).
+- Whitepaper : [verseGEO Whitepaper](http://versegeo.com/whitepaper-k.html).
 
 ## 1. Exchange Rate Inquiry API (Partners → MW30P)
 
