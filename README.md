@@ -28,7 +28,7 @@ A total of 6 APIs are provided. API is classified into Sync type and Async type 
 |-----|--------|--------|------|------|
 |Exchange Rate inquiry|Partners|MW30P|Item/Point/etc To PlayToken Exchange Rate Inquiry<br>PlayToken To Item/Point/etc Exchange Rate Inquiry<br>(Partner's various benefits to users, etc.)||
 |Exchange|Partners|MW30P|Item/Point/etc To PlayToken Exchange<br>PlayToken To Item/Point/etc Exchange|Async|
-|Passport|MW30P|Certification services for execution of key APIs||
+|Passport|Partners|MW30P|Certification services for execution of key APIs||
 |Withdrawal address|Partners|MW30P|거Verification and registration of externally available addresses held by users of the affiliate (withdrawal address)||
 |Withdrawal pre-trade|Partners|MW30P|Withdrawal preliminary transactions||
 |Withdrawal |Partners|MW30P|Withdraw withdrawable tokens(PlayToken) to an external address|Async|
