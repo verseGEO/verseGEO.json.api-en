@@ -32,4 +32,4 @@ A total of 6 APIs are provided. API is classified into Sync type and Async type 
 |Withdrawal address|Partners|MW30P|Verification and registration of externally available addresses held<br>by users of the Partners (withdrawal address)||
 |Withdrawal pre-trade|Partners|MW30P|Withdrawal preliminary transactions||
 |Withdrawal |Partners|MW30P|Withdraw withdrawable tokens(PlayToken) to an external address|Async|
-|Block Notify|MW30P|Partners|Exchange API, Blockchain processing result of Withdrawal API sent (Confirm completed or not)|Async|
+|Block Notify|MW30P|Partners|Exchange API, Blockchain processing result of Withdrawal API sent<br>(Confirm completed or not)|Async|
